@@ -567,37 +567,45 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram">&emsp;<a href="../../releases/download/6/instagram-crimera-v423.0.0.47.66-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v423.0.0.47.66-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram">&emsp;<a href="../../releases/download/7/instagram-crimera-v423.0.0.47.66-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v423.0.0.47.66-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
    
-[Module (.zip)](../../releases/download/6/instagram-crimera-module-v423.0.0.47.66-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/7/instagram-crimera-module-v423.0.0.47.66-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-19](../../releases/tag/6)<br>
-Patches: [crimera/patches-3.2.0-dev.5.mpp](https://github.com/crimera/piko/releases/tag/v3.2.0-dev.5)
+[Release 2026-04-20](../../releases/tag/7)<br>
+Patches: [crimera/patches-3.3.0-dev.1.mpp](https://github.com/crimera/piko/releases/tag/v3.3.0-dev.1)
 - Add settings
 - Change version code
+- Copy comment
 - Customise story timestamp
+- Disable Reels scrolling
 - Disable ads
 - Disable analytics
 - Disable comments
 - Disable discover people
 - Disable explore
+- Disable screenshot detection
 - Disable stories
 - Disable story flipping
+- Disable typing status
 - Download media
 - Follow back indicator
 - Hide group creation button on sharesheet
 - Hide navigation buttons
+- Hide notes tray
 - Hide reshare button
 - Hide stories tray
 - Hide suggested content
 - Improve image viewing
 - Limit feed to following profiles
 - Make ephemeral media permanent
+- More options on profile
 - Open links externally
 - Remove build expired popup
+- Remove empty bottom space
 - Sanitize share links
 - Unlock developer options
+- View DMs anonymously
 - View live anonymously
 - View stories anonymously
 - View story mentions
