@@ -174,13 +174,13 @@
 Great for beginners. 
 
 <details>
-<summary id="YouTube">&emsp;<a href="../../releases/download/1/youtube-nvbangg-v20.45.36-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&emsp;<a href="../../releases/download/8/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/1/youtube-nvbangg-module-v20.45.36-all.zip)
+[Module (.zip)](../../releases/download/8/youtube-nvbangg-module-v20.47.62-all.zip)
 <blockquote>
 
-[Release 2026-04-14](../../releases/tag/1)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-21](../../releases/tag/8)<br>
+Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Bypass URL redirects
 - Disable Shorts resuming on startup
 - Downloads
@@ -188,7 +188,6 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Hide Shorts components
 - Hide ads
 - Open links externally
-- Override YouTube Music actions
 - Playback speed
 - Remove background playback restrictions
 - Sanitize sharing links
@@ -203,13 +202,13 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&emsp;<a href="../../releases/download/1/youtube-morpheapp-v20.45.36-all.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&emsp;<a href="../../releases/download/8/youtube-morpheapp-v20.47.62-all.apk"><img src="https://img.shields.io/badge/Morphe-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
      
 [Module (.zip)](../../releases/download/46/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-14](../../releases/tag/1)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-21](../../releases/tag/8)<br>
+Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -258,7 +257,7 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Open links externally
 - Open system share sheet
 - Open videos fullscreen
-- Override YouTube Music actions
+- Override YouTube Music buttons
 - Play all
 - Playback speed
 - Reload video
@@ -424,13 +423,13 @@ Patches: [anddea/patches-4.0.0.mpp](https://github.com/anddea/revanced-patches/r
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music-Morphe">&emsp;<a href="../../releases/download/1/youtube-music-morpheapp-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&emsp;<a href="../../releases/download/8/youtube-music-morpheapp-v8.47.56-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.47.56-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/1/youtube-music-morpheapp-module-v8.44.54-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/8/youtube-music-morpheapp-module-v8.47.56-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-14](../../releases/tag/1)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-21](../../releases/tag/8)<br>
+Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
@@ -444,7 +443,7 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Enable forced miniplayer
 - Force original audio
 - GmsCore support
-- Hide 'Get Music Premium'
+- Hide ads
 - Hide buttons
 - Hide category bar
 - Hide music video ads
@@ -455,6 +454,7 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Sanitize sharing links
 - Spoof video streams
 - Theme
+- Track crossfade
 </blockquote>
 </details>
 
