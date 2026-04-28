@@ -567,17 +567,19 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram">&emsp;<a href="../../releases/download/9/instagram-crimera-v426.0.0.37.68-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v426.0.0.37.68-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram">&emsp;<a href="../../releases/download/11/instagram-crimera-v426.0.0.37.68-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v426.0.0.37.68-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
    
-[Module (.zip)](../../releases/download/9/instagram-crimera-module-v426.0.0.37.68-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/11/instagram-crimera-module-v426.0.0.37.68-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-24](../../releases/tag/9)<br>
-Patches: [crimera/patches-3.3.0-dev.2.mpp](https://github.com/crimera/piko/releases/tag/v3.3.0-dev.2)
+[Release 2026-04-28](../../releases/tag/11)<br>
+Patches: [crimera/patches-3.3.0-dev.3.mpp](https://github.com/crimera/piko/releases/tag/v3.3.0-dev.3)
 - Add settings
 - Amoled theme
+- Change like animation
 - Change version code
 - Copy comment
+- Customise story ring size
 - Customise story timestamp
 - Disable Reels scrolling
 - Disable ads
@@ -608,6 +610,7 @@ Patches: [crimera/patches-3.3.0-dev.2.mpp](https://github.com/crimera/piko/relea
 - Remove empty bottom space
 - Sanitize share links
 - Stories audio autoplay
+- Unlock Plus benefits
 - Unlock developer options
 - View DMs anonymously
 - View live anonymously
