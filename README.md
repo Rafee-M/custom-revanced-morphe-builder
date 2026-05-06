@@ -174,13 +174,13 @@
 Great for beginners. 
 
 <details>
-<summary id="YouTube">&emsp;<a href="../../releases/download/8/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&emsp;<a href="../../releases/download/13/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/8/youtube-nvbangg-module-v20.47.62-all.zip)
+[Module (.zip)](../../releases/download/13/youtube-nvbangg-module-v20.47.62-all.zip)
 <blockquote>
 
-[Release 2026-04-21](../../releases/tag/8)<br>
-Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-05-06](../../releases/tag/13)<br>
+Patches: [MorpheApp/patches-1.26.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.26.0)
 - Bypass URL redirects
 - Disable Shorts resuming on startup
 - Downloads
