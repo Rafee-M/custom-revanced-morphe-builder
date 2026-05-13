@@ -174,13 +174,13 @@
 Great for beginners. 
 
 <details>
-<summary id="YouTube">&emsp;<a href="../../releases/download/13/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&emsp;<a href="../../releases/download/15/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/13/youtube-nvbangg-module-v20.47.62-all.zip)
+[Module (.zip)](../../releases/download/15/youtube-nvbangg-module-v20.47.62-all.zip)
 <blockquote>
 
-[Release 2026-05-06](../../releases/tag/13)<br>
-Patches: [MorpheApp/patches-1.26.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.26.0)
+[Release 2026-05-13](../../releases/tag/15)<br>
+Patches: [MorpheApp/patches-1.27.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.27.0)
 - Bypass URL redirects
 - Disable Shorts resuming on startup
 - Downloads
@@ -1278,13 +1278,13 @@ Patches: [hoo-dles/patches-1.23.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Smart Launcher 6](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
 <details>
-<summary id="Smart-Launcher-6">&emsp;<a href="../../releases/download/14/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
+<summary id="Smart-Launcher-6">&emsp;<a href="../../releases/download/15/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/12/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)
+[Module (.zip)](../../releases/download/15/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)
 <blockquote>
 
-[Release 2026-05-07](../../releases/tag/14)<br>
-Patches: [hoo-dles/patches-1.30.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.30.0)
+[Release 2026-05-13](../../releases/tag/15)<br>
+Patches: [hoo-dles/patches-1.31.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.31.0)
 - Disable signature check
 - Enable Pro
 </blockquote>
@@ -1372,13 +1372,13 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Merriam Webster Dictionary](https://play.google.com/store/apps/details?id=com.merriamwebster)
 
 <details>
-<summary id="Merriam-Webster-Dictionary">&emsp;<a href="../../releases/download/14/merriam-webster-dictionary-hoo-dles-v5.5.0-all.apk"><img src="https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.0-gray?labelColor=B30000&logo=merriam_webster&logoColor=white"></a></summary>
+<summary id="Merriam-Webster-Dictionary">&emsp;<a href="../../releases/download/15/merriam-webster-dictionary-hoo-dles-v5.5.0-all.apk"><img src="https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.0-gray?labelColor=B30000&logo=merriam_webster&logoColor=white"></a></summary>
  
-[Module (.zip)](../../releases/download/14/merriam-webster-dictionary-hoo-dles-module-v5.5.0-all.zip)
+[Module (.zip)](../../releases/download/15/merriam-webster-dictionary-hoo-dles-module-v5.5.0-all.zip)
 <blockquote>
 
-[Release 2026-05-07](../../releases/tag/14)<br>
-Patches: [hoo-dles/patches-1.30.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.30.0)
+[Release 2026-05-13](../../releases/tag/15)<br>
+Patches: [hoo-dles/patches-1.31.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.31.0)
 - Enable Premium
 </blockquote>
 </details>
