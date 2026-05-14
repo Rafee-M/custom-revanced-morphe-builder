@@ -876,13 +876,13 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&emsp;<a href="../../releases/download/12/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&emsp;<a href="../../releases/download/16/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/12/wps-office-hoo-dles-module-v18.12.1-all.zip)
+[Module (.zip)](../../releases/download/16/wps-office-hoo-dles-module-v18.12.1-all.zip)
 <blockquote>
 
-[Release 2026-05-02](../../releases/tag/12)<br>
-Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.29.0)
+[Release 2026-05-14](../../releases/tag/16)<br>
+Patches: [hoo-dles/patches-1.31.1.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.31.1)
 - Disable anti-tamper
 - Enable Pro
 </blockquote>
@@ -1278,13 +1278,13 @@ Patches: [hoo-dles/patches-1.23.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Smart Launcher 6](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
 <details>
-<summary id="Smart-Launcher-6">&emsp;<a href="../../releases/download/15/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
+<summary id="Smart-Launcher-6">&emsp;<a href="../../releases/download/16/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
 
 [Module (.zip)](../../releases/download/15/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)
 <blockquote>
 
-[Release 2026-05-13](../../releases/tag/15)<br>
-Patches: [hoo-dles/patches-1.31.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.31.0)
+[Release 2026-05-14](../../releases/tag/16)<br>
+Patches: [hoo-dles/patches-1.31.1.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.31.1)
 - Disable signature check
 - Enable Pro
 </blockquote>
