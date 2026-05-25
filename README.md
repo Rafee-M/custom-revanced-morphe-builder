@@ -174,12 +174,12 @@
 Great for beginners. 
 
 <details>
-<summary id="YouTube">&emsp;<a href="../../releases/download/19/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&emsp;<a href="../../releases/download/21/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/19/youtube-nvbangg-module-v20.47.62-all.zip)
+[Module (.zip)](../../releases/download/21/youtube-nvbangg-module-v20.47.62-all.zip)
 <blockquote>
 
-[Release 2026-05-21](../../releases/tag/19)<br>
+[Release 2026-05-25](../../releases/tag/21)<br>
 Patches: [MorpheApp/patches-1.29.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.29.0)
 - Bypass URL redirects
 - Disable Shorts resuming on startup
@@ -693,12 +693,12 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&emsp;<a href="../../releases/download/1/telegram-aunali321-v12.6.3-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&emsp;<a href="../../releases/download/21/telegram-aunali321-v12.7.3-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.7.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/1/telegram-aunali321-module-v12.6.3-all.zip)
+[Module (.zip)](../../releases/download/21/telegram-aunali321-module-v12.7.3-all.zip)
 <blockquote>
 
-[Release 2026-04-14](../../releases/tag/1)<br>
+[Release 2026-05-25](../../releases/tag/21)<br>
 Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
 - Bypass Integrity
 - Disable Auto Update
@@ -713,12 +713,12 @@ Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExpe
 [**Web version:**](https://telegram.org/android)
 
 <details>
-<summary id="Telegram-Web">&emsp;<a href="../../releases/download/1/telegram-web-aunali321-v12.6.4-all.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.6.4-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram-Web">&emsp;<a href="../../releases/download/21/telegram-web-aunali321-v12.7.3-all.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.7.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/1/telegram-web-aunali321-module-v12.6.4-all.zip)
+[Module (.zip)](../../releases/download/21/telegram-web-aunali321-module-v12.7.3-all.zip)
 <blockquote>
 
-[Release 2026-04-14](../../releases/tag/1)<br>
+[Release 2026-05-25](../../releases/tag/21)<br>
 Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
 - Bypass Integrity
 - Disable Auto Update
@@ -876,13 +876,13 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&emsp;<a href="../../releases/download/17/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&emsp;<a href="../../releases/download/21/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/17/wps-office-hoo-dles-module-v18.12.1-all.zip)
+[Module (.zip)](../../releases/download/21/wps-office-hoo-dles-module-v18.12.1-all.zip)
 <blockquote>
 
-[Release 2026-05-16](../../releases/tag/17)<br>
-Patches: [hoo-dles/patches-1.32.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.32.0)
+[Release 2026-05-25](../../releases/tag/21)<br>
+Patches: [hoo-dles/patches-1.33.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.33.0)
 - Disable anti-tamper
 - Enable Pro
 </blockquote>
