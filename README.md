@@ -861,13 +861,13 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&emsp;<a href="../../releases/download/27/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&emsp;<a href="../../releases/download/28/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/27/wps-office-hoo-dles-module-v18.12.1-all.zip)
+[Module (.zip)](../../releases/download/28/wps-office-hoo-dles-module-v18.12.1-all.zip)
 <blockquote>
 
-[Release 2026-06-25](../../releases/tag/27)<br>
-Patches: [hoo-dles/patches-1.37.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.37.0)
+[Release 2026-06-27](../../releases/tag/28)<br>
+Patches: [hoo-dles/patches-1.38.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.38.0)
 </blockquote>
 </details>
 
@@ -1261,13 +1261,13 @@ Patches: [hoo-dles/patches-1.23.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Smart Launcher 6](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
 <details>
-<summary id="Smart-Launcher-6">&emsp;<a href="../../releases/download/27/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
+<summary id="Smart-Launcher-6">&emsp;<a href="../../releases/download/28/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/27/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)
+[Module (.zip)](../../releases/download/28/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)
 <blockquote>
 
-[Release 2026-06-25](../../releases/tag/27)<br>
-Patches: [hoo-dles/patches-1.37.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.37.0)
+[Release 2026-06-27](../../releases/tag/28)<br>
+Patches: [hoo-dles/patches-1.38.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.38.0)
 </blockquote>
 </details>
 
@@ -1353,13 +1353,13 @@ Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Merriam Webster Dictionary](https://play.google.com/store/apps/details?id=com.merriamwebster)
 
 <details>
-<summary id="Merriam-Webster-Dictionary">&emsp;<a href="../../releases/download/27/merriam-webster-dictionary-hoo-dles-v5.5.0-all.apk"><img src="https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.0-gray?labelColor=B30000&logo=merriam_webster&logoColor=white"></a></summary>
+<summary id="Merriam-Webster-Dictionary">&emsp;<a href="../../releases/download/28/merriam-webster-dictionary-hoo-dles-v5.5.0-all.apk"><img src="https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.0-gray?labelColor=B30000&logo=merriam_webster&logoColor=white"></a></summary>
  
-[Module (.zip)](../../releases/download/27/merriam-webster-dictionary-hoo-dles-module-v5.5.0-all.zip)
+[Module (.zip)](../../releases/download/28/merriam-webster-dictionary-hoo-dles-module-v5.5.0-all.zip)
 <blockquote>
 
-[Release 2026-06-25](../../releases/tag/27)<br>
-Patches: [hoo-dles/patches-1.37.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.37.0)
+[Release 2026-06-27](../../releases/tag/28)<br>
+Patches: [hoo-dles/patches-1.38.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.38.0)
 </blockquote>
 </details>
 
