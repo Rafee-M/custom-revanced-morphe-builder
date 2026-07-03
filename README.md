@@ -174,13 +174,13 @@
 Great for beginners. 
 
 <details>
-<summary id="YouTube">&emsp;<a href="../../releases/download/26/youtube-nvbangg-v20.51.39-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.51.39-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&emsp;<a href="../../releases/download/30/youtube-nvbangg-v20.51.39-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.51.39-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/26/youtube-nvbangg-module-v20.51.39-all.zip)
+[Module (.zip)](../../releases/download/30/youtube-nvbangg-module-v20.51.39-all.zip)
 <blockquote>
 
-[Release 2026-06-23](../../releases/tag/26)<br>
-Patches: [MorpheApp/patches-1.32.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.32.0)
+[Release 2026-07-03](../../releases/tag/30)<br>
+Patches: [MorpheApp/patches-1.33.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.33.0)
 </blockquote>
 </details>
 
